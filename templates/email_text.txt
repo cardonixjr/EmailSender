@@ -1,0 +1,7 @@
+Olá {nome}
+
+Envio este email para testar o código de automação de processos, e está sendo enviado no dia {data}.
+
+Atenciosamente,
+
+Luciano Alves Cardona Jr.
